@@ -27,3 +27,5 @@ The set list with timestamps can be found here: https://datastudio.google.com/u/
 More documentation on overall data structure of v.1 of the tool can be found here:https://datastudio.google.com/u/1/reporting/cd07d3ca-2dea-40c6-afbb-3fa018e22d0e/page/p_p1inexttvc
 
 A version of the storage endpoint can be found here (this is the data souce for the google data studio interface): https://docs.google.com/spreadsheets/d/19I_3MT4Py6Kc_Oxjosv6kJkgp7l_iK62M7ra1Y_eNMM/edit?usp=sharing
+
+Google data studio is an open source web based visualazation tool. The data source used can be replicated with this code and the interface can be repicated relatively easily.
