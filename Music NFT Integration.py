@@ -384,7 +384,7 @@ for z in range(len(MusicNFT_DF)):
 
 #Push dataframe to google sheets
 
-sh = gc.open('ZoraAPI - Directory')
+sh = gc.open('"Name of your google sheets"') #It will paste the dataframe on the first sheet
 
 MusicNFT_DF_gs = sh[0]
 
