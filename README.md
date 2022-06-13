@@ -11,12 +11,12 @@ Needed libraries:
 - platform
 - urllib #Web query integrator
 - gql #Zora API interface
-from gql import gql, Client #Zora API Client
-from gql.transport.aiohttp import AIOHTTPTransport #Zora API Client
-import pandas as pd #Used for Data trasnformation and database structuring
-import json #Data trasnformation
-import pygsheets #Google cloud integration
-import requests #Web query integrator
+- gql import gql, Client #Zora API Client
+- gql.transport.aiohttp import AIOHTTPTransport #Zora API Client
+- pandas as pd #Used for Data trasnformation and database structuring
+- json #Data trasnformation
+- pygsheets #Google cloud integration
+- requests #Web query integrator
 
 A version of the filtering tool can be found here: https://datastudio.google.com/u/1/reporting/cd07d3ca-2dea-40c6-afbb-3fa018e22d0e/page/jR9uC
 
